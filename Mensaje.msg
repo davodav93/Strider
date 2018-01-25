@@ -1,0 +1,10 @@
+Header header
+float32 vel
+float32 volt
+int8 ang
+geometry_msgs/Point acel
+std_msgs/ColorRGBA dist
+float32 bruj
+float32 lati
+float32 longi
+float32 alti
